@@ -9,4 +9,4 @@ Tran H. Do et al. ,TREM2 macrophages induced by human lipids drive inflammation 
 
 Do, Tran H. et al. already did quality control and integrated the data, but my goal is to expand a subset of the data. I'm choosing to expand the lymphocyte dataset, which can be downloaded here: https://drive.google.com/drive/folders/1xy32aQAXP0oXH9X7wfqgOTfsFBz1uK-Q. 
 
-Originally, the authors named 5 cell clusters in this dataset, however, I plan to figure out if we can expand it into more cell types so that the data is more specific for generating hypotheses. This will allow researchers to more specifically narrow down where a gene of interest is being expressed.
+Originally, the authors named 5 cell clusters in this dataset, however, I plan to figure out if we can expand it into more cell types so that the data is more specific for generating hypotheses. This will allow researchers to more specifically narrow down where a gene of interest is being expressed. After expanding the dataset, I plan to analyze the single cell data in through different graphical representations.
